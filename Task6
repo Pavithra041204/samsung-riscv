@@ -1,0 +1,16 @@
+Implementing Full Subtractor using VSDSquadron Mini:
+Components Required:
+VSDSquadron Mini board
+Push Buttons
+2 LEDs
+Breadboard
+Jumper Wires
+VS Code , Platformio
+Hardware Connections:
+VSDSquadron Mini Board	Hardware Connections
+GND	LED1 anode, LED2 anode, Switch(1,2,3) anode
+PD1	Switch 1 cathode (A)
+PD2	Switch 2 cathode (B)
+PD3	Switch 3 cathode (Bin)
+PC4	Red LED (Borrow)
+PC5	Green LED (Difference)
