@@ -4,9 +4,6 @@ SAMSUNG-RISCV
 The RISC-V Talent Development Program, powered by Samsung Semiconductor India Research (SSIR) and VLSI System Design (VSD), is designed to provide hands-on experience in RISC-V architecture and VLSI design.
 
 
-https://github.com/user-attachments/assets/1f3ac997-9386-4c51-b47c-f244dc4cde66
-
-
 BASIC DETAILS
 ---
 NAME: PAVITHRA S 
@@ -29,5 +26,10 @@ MAIL ID : rvit22bec042.rvitm@rvei.edu.in
 [TASK6](https://github.com/Pavithra041204/samsung-riscv/blob/main/Task6)
 
 [](https://github.com/Pavithra041204/samsung-riscv/blob/main/FULL%20SUBTRACTOR.mp4)
+
+
+
+https://github.com/user-attachments/assets/8a6fe0ad-6049-4486-97e9-c42d9a0ff453
+
 
 
