@@ -21,4 +21,6 @@ MAIL ID : rvit22bec042.rvitm@rvei.edu.in
 
 [TASK5](https://github.com/Pavithra041204/samsung-riscv/blob/main/Task%205%20..)
 
-[TASK6](https://github.com/Pavithra041204/samsung-riscv/blob/main/Task6)(https://github.com/Pavithra041204/samsung-riscv/blob/main/FULL%20SUBTRACTOR.mp4)
+[TASK6](https://github.com/Pavithra041204/samsung-riscv/blob/main/Task6)
+
+[](https://github.com/Pavithra041204/samsung-riscv/blob/main/FULL%20SUBTRACTOR.mp4)
